@@ -1,0 +1,16 @@
+# Environnement Python
+.venv
+__pycache__
+.py[cod]
+
+# Jupyter
+.ipynb_checkpoints
+
+# Modèles générés
+.keras
+.h5
+.tflite
+
+# Fichiers système
+.DS_Store
+Thumbs.db
